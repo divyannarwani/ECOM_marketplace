@@ -8,8 +8,8 @@ Requirements:
 
 STEPS TO RUN THIS WEBSITE
 
-Step 1 : Open this folder structure in your IDE like VS CODE.
-Step 2 : Create new terminal and open the path of the project.
+Step 1 : Open this folder structure in your IDE like VS CODE.</br>
+Step 2 : Create new terminal and open the path of the project.</br>
 step 3 : run the following command one by one,
 
 > cd ecom </br>
