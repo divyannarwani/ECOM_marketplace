@@ -29,8 +29,7 @@ DEBUG = True
 
 # ALLOWED_HOSTS = []
 
-ALLOWED_HOSTS = ['.vercel.app']
-ALLOWED_HOSTS.extend([os.environ.get('VERCEL_URL', '')])
+ALLOWED_HOSTS = []
 
 
 
